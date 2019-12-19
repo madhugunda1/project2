@@ -1,0 +1,1 @@
+Sample Git integration project with Jenkins
